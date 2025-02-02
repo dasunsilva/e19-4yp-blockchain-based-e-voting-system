@@ -3,24 +3,23 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e19-4yp-blockchain-based-e-voting-system
+title: Blockchain based e-voting system
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Blockchain based e-voting system
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- e19193, Kanchana Kaushalya, [email](mailto:e19193@eng.pdn.ac.lk)
+- e19363, Nimnadi Senevirathne, [email](mailto:e19363@eng.pdn.ac.lk)
+- e19375, Dasun Udayanga, [email](mailto:e19375@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Prof. Manjula Sandirigama, [email](mailto:manjula.sandirigama@eng.pdn.ac.lk)
 
 #### Table of content
 
