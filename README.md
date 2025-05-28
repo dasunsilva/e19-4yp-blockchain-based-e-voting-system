@@ -99,7 +99,7 @@ The Voting Module enables voters to cast encrypted votes securely using threshol
 
 ### Counting and Result Publication
 
-![alt text](assets/images/counting-phase-high-level.jpg)
+![Diagram showing the counting and result publication process, including homomorphic vote aggregation, threshold decryption, and blockchain result storage.](assets/images/counting-phase-high-level.jpg)
 The Counting & Result Module aggregates encrypted votes off-chain using homomorphic encryption and publishes the final result on the blockchain.
 
 **Components:**
