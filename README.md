@@ -31,6 +31,7 @@ There are three system states:
    - Voting Phase
 
 3. **Post-Election**
+
    - Result Counting and Publishing
 
 ---
