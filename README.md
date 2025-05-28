@@ -38,7 +38,7 @@ There are three system states:
 
 ### Voter Registration and Authentication
 
-![voter-registration-highlevel-overview](assets/images/voter-registration-high-level.jpg)
+![Diagram showing the high-level process of voter registration, including identity verification and cryptographic key assignment.](assets/images/voter-registration-high-level.jpg)
 The Voter Registration Module verifies voter identities and securely assigns cryptographic voting keys. This module interacts with the election commission database to store voter records securely.
 
 **Components:**
@@ -99,7 +99,7 @@ The Voting Module enables voters to cast encrypted votes securely using threshol
 
 ### Counting and Result Publication
 
-![counting-processs-highlevel-overview](assets/images/counting-phase-high-level.jpg)
+![Diagram showing the counting and result publication process, including homomorphic vote aggregation, threshold decryption, and blockchain result storage.](assets/images/counting-phase-high-level.jpg)
 The Counting & Result Module aggregates encrypted votes off-chain using homomorphic encryption and publishes the final result on the blockchain.
 
 **Components:**
