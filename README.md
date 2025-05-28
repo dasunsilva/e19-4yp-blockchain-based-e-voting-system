@@ -38,6 +38,7 @@ There are three system states:
 
 ### Voter Registration and Authentication
 
+![alt text](assets/images/voter-registration-high-level.jpg)
 The Voter Registration Module verifies voter identities and securely assigns cryptographic voting keys. This module interacts with the election commission database to store voter records securely.
 
 **Components:**
@@ -58,6 +59,7 @@ The Voter Registration Module verifies voter identities and securely assigns cry
 
 ### Candidate Registration
 
+![alt text](assets/images/candidate-registration-high-level.jpg)
 The Candidate Registration Module ensures only eligible candidates are registered and that their details are securely stored on the blockchain.
 
 **Components:**
@@ -76,6 +78,7 @@ The Candidate Registration Module ensures only eligible candidates are registere
 
 ### Voting Process
 
+![alt text](assets/images/voting-phase-high-level.jpg)
 The Voting Module enables voters to cast encrypted votes securely using threshold cryptography and homomorphic encryption. Votes are stored off-chain in IPFS, while only their hashes are recorded on the blockchain.
 
 **Components:**
@@ -96,6 +99,7 @@ The Voting Module enables voters to cast encrypted votes securely using threshol
 
 ### Counting and Result Publication
 
+![alt text](assets/images/counting-phase-high-level.jpg)
 The Counting & Result Module aggregates encrypted votes off-chain using homomorphic encryption and publishes the final result on the blockchain.
 
 **Components:**
