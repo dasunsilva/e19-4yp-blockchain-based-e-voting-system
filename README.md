@@ -38,7 +38,7 @@ There are three system states:
 
 ### Voter Registration and Authentication
 
-![alt text](assets/images/voter-registration-high-level.jpg)
+![Diagram showing the high-level process of voter registration, including identity verification and cryptographic key assignment.](assets/images/voter-registration-high-level.jpg)
 The Voter Registration Module verifies voter identities and securely assigns cryptographic voting keys. This module interacts with the election commission database to store voter records securely.
 
 **Components:**
